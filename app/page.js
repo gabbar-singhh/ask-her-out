@@ -16,10 +16,10 @@ export default function Home() {
       setImg("/assets/success.gif");
       setNobuttonstyle({ display: "none" });
       setTitle("Yayayyay! Finally 😘");
-      setText("let's fix a date");
+      setText("let's fix a time and place ASAP! 🥰");
     }
 
-    if (event.target.innerText === "let's fix a date") {
+    if (event.target.innerText === "let's fix a time and place ASAP! 🥰") {
       window.open("https://wa.me/+917701973093");
     }
   };
