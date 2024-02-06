@@ -20,7 +20,7 @@ export default function Home() {
     }
 
     if (event.target.innerText === "let's fix a time and place ASAP! 🥰") {
-      window.open("https://wa.me/7701973093?text=Hi%2C%20I%20saw%20your%20website%2C%20thanks!%20Would%20love%20to%20go%20out%20with%20you");
+      window.open("https://wa.me/7701973093?text=Hey%2C%20I%20saw%20your%20website%2C%20that%20was%20so%20sweet!%20I%20would%20love%20to%20go%20out%20with%20you");
     }
   };
 
